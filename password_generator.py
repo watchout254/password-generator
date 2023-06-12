@@ -31,7 +31,7 @@ print("There you go, Daniel's program got you ma mehn 🤳🏿🤜🏿🤛🏿")
 #random.shuffle(password_in)
 #print(password_in)
 
-#password = ""
+#password = """"""""""
 #for bro in password_in:
  #   password += bro
 #print(password)
